@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Base de données SQLite dans instance/
+instance/eventhub.db
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Node modules côté frontend
+client/node_modules/
+
+# Dossiers IDE / OS
+.vscode/
+.DS_Store
+
+# Logs et outputs
+*.log
