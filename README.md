@@ -5,7 +5,7 @@
 
 ---
 
-## 📋 Fonctionnalités
+##  Fonctionnalités
 
 - **Authentification**  
   - Inscription & connexion (email / mot de passe)  
@@ -23,7 +23,7 @@
 
 ---
 
-## ⚙️ Prérequis
+##  Prérequis
 
 - **Node.js** (v16+) & **npm**  
 - **Python** (v3.8+)  
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Installation & démarrage
+##  Installation & démarrage
 
 1. **Cloner le dépôt**  
    ```bash
